@@ -3,7 +3,7 @@ CREATE TABLE country(
    country VARCHAR(24) PRIMARY KEY,
    density INTEGER
 );
-/* Insert data keeping only country name and density that ar only needed for the project and to respect 3FN */
+/* Insert data keeping only country name and density that are only needed for the project and to respect 3FN */
 INSERT INTO country(country, density) VALUES
     ('China', 153),
     ('India', 464),
