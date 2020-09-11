@@ -3,8 +3,7 @@
 <p align="center">
   <h3 align="center">Les pays en chiffre</h3>
 
-  <p align="center">
-    Vous avez récolté des informations basiques sur les pays et vous allez manipuler les données
+  Vous avez récolté des informations basiques sur les pays et vous allez manipuler les données
 </p>
 
 <!-- TABLE OF CONTENTS -->
